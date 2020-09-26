@@ -1,0 +1,10 @@
+E:\C#\6\RockPaperScissoesGame\bin\Debug\RockPaperScissoesGame.exe.config
+E:\C#\6\RockPaperScissoesGame\bin\Debug\RockPaperScissoesGame.exe
+E:\C#\6\RockPaperScissoesGame\bin\Debug\RockPaperScissoesGame.pdb
+E:\C#\6\RockPaperScissoesGame\obj\Debug\RockPaperScissoesGame.csprojAssemblyReference.cache
+E:\C#\6\RockPaperScissoesGame\obj\Debug\RockPaperScissoesGame.Properties.Resources.resources
+E:\C#\6\RockPaperScissoesGame\obj\Debug\RockPaperScissoesGame.csproj.GenerateResource.cache
+E:\C#\6\RockPaperScissoesGame\obj\Debug\RockPaperScissoesGame.csproj.CoreCompileInputs.cache
+E:\C#\6\RockPaperScissoesGame\obj\Debug\RockPaperScissoesGame.exe
+E:\C#\6\RockPaperScissoesGame\obj\Debug\RockPaperScissoesGame.pdb
+E:\C#\6\RockPaperScissoesGame\obj\Debug\RockPaperScissoesGame.Form.resources
